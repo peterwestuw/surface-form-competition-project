@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+This is the offial project page for the paper:
+
+_Surface Form Competition:Why the Highest Probability Answer Isn’t Always Right_; Ari Holtzman*   Peter West*   Vered Shwartz, Yejin Choi, Luke Zettlemoyer
+
+We make all [code](https://github.com/peterwestuw/surface-form-competition) available
 
 You can use the [editor on GitHub](https://github.com/peterwestuw/surface-form-competition-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
