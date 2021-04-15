@@ -1,11 +1,10 @@
-This is the offial project page for
-
-Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+[Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right](paper.pdf)
 
 [Ari Holtzman](https://ari-holtzman.github.io/)*   Peter West*   Vered Shwartz, Yejin Choi, Luke Zettlemoyer
 
-
 \* = Joint investigators
+
+### Paper Information
 
 We make all [code](https://github.com/peterwestuw/surface-form-competition) available
 
