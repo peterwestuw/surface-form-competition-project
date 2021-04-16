@@ -4,6 +4,7 @@
 
 \* = Joint investigators
 
+[PAPER](paper.pdf) // [CODE](https://github.com/peterwestuw/surface-form-competition)
 
 Large language models have shown promising results in zero-shotsettings (Brown et al.,2020; Radford et al., 2019). For example, they can perform multiple choice tasks simply by conditioning on a question and selecting the answer with the highest probability. 
 
@@ -11,10 +12,6 @@ However, ranking by string probability can be problematic due to surface form co
 
 We introduce Domain Conditional Pointwise Mutual Information, an alternative scoring function that directly compensates for  surface form competition by simply reweighing each option according to a term that is proportional to its a priori likelihood within the context of the specific  zero-shot task. It achieves consistent gains in zero-shot performance over both calibrated (Zhao et al., 2021) and uncalibrated scoring functions on all GPT-2 and GPT-3 models over a variety of multiplechoice datasets.
 
-
-
-
-[PAPER](paper.pdf) // [CODE](https://github.com/peterwestuw/surface-form-competition)
 
 Brown, T. et al. “Language Models are Few-Shot Learners.” ArXiv abs/2005.14165 (2020)
 
