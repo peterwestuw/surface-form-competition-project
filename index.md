@@ -1,12 +1,9 @@
-Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+###Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
 
 [Ari Holtzman](https://ari-holtzman.github.io/)*   Peter West*   Vered Shwartz, Yejin Choi, Luke Zettlemoyer
 
 \* = Joint investigators
 
-[PAPER](paper.pdf) // [CODE](https://github.com/peterwestuw/surface-form-competition)
-
-### Paper Information
 
 Large language models have shown promising results in zero-shotsettings (Brown et al.,2020; Radford et al., 2019). For example, they can perform multiple choice tasks simply by conditioning on a question and selecting the answer with the highest probability. 
 
@@ -14,6 +11,7 @@ However, ranking by string probability can be problematic due to surface form co
 
 We introduce Domain Conditional Pointwise Mutual Information, an alternative scoring function that directly compensates for  surface form competition by simply reweighing each option according to a term that is proportional to its a priori likelihood within the context of the specific  zero-shot task. It achieves consistent gains in zero-shot performance over both calibrated (Zhao et al., 2021) and uncalibrated scoring functions on all GPT-2 and GPT-3 models over a variety of multiplechoice datasets.
 
+[PAPER](paper.pdf) // [CODE](https://github.com/peterwestuw/surface-form-competition)
 
 
 You can use the [editor on GitHub](https://github.com/peterwestuw/surface-form-competition-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
