@@ -1,6 +1,6 @@
 ### Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
 
-[Ari Holtzman](https://ari-holtzman.github.io/)*, [Peter West](https://homes.cs.washington.edu/~pawest/)*, [Vered Shwartz](https://vered1986.github.io/), [Yejin Choi](https://homes.cs.washington.edu/~yejin/), [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
+[Ari Holtzman](https://ari-holtzman.github.io/)\*, [Peter West](https://homes.cs.washington.edu/~pawest/)\*, [Vered Shwartz](https://vered1986.github.io/), [Yejin Choi](https://homes.cs.washington.edu/~yejin/), [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
 
 \* = Joint investigators
 
