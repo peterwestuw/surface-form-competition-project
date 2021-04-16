@@ -1,4 +1,4 @@
-###Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+### Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
 
 [Ari Holtzman](https://ari-holtzman.github.io/)*   Peter West*   Vered Shwartz, Yejin Choi, Luke Zettlemoyer
 
