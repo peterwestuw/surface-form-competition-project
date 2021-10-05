@@ -4,7 +4,7 @@
 
 \* = Joint investigators
 
-[PAPER](surface_form_competition.pdf) // [CODE](https://github.com/peterwestuw/surface-form-competition)
+[PAPER](https://arxiv.org/abs/2104.08315) // [CODE](https://github.com/peterwestuw/surface-form-competition)
 
 Large language models have shown promising results in zero-shotsettings (Brown et al.,2020; Radford et al., 2019). For example, they can perform multiple choice tasks simply by conditioning on a question and selecting the answer with the highest probability. 
 
